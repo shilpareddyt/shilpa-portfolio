@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shilpareddyt/shilpa-portfolio/static/css/main.e6c13ad2.css",
+    "main.js": "/shilpareddyt/shilpa-portfolio/static/js/main.9671c35e.js",
+    "static/js/453.1b7635c1.chunk.js": "/shilpareddyt/shilpa-portfolio/static/js/453.1b7635c1.chunk.js",
+    "index.html": "/shilpareddyt/shilpa-portfolio/index.html",
+    "main.e6c13ad2.css.map": "/shilpareddyt/shilpa-portfolio/static/css/main.e6c13ad2.css.map",
+    "main.9671c35e.js.map": "/shilpareddyt/shilpa-portfolio/static/js/main.9671c35e.js.map",
+    "453.1b7635c1.chunk.js.map": "/shilpareddyt/shilpa-portfolio/static/js/453.1b7635c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.9671c35e.js"
+  ]
+}
